@@ -10,8 +10,8 @@ private:
 public:
 	MyVector();
 	MyVector(int n);
-	int size();
-	int capacity();
+	int Size();
+	int Capacity();
 	void clear();
 	void push_back(int n);
 	int at(int n);
